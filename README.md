@@ -23,8 +23,8 @@ A full-stack web application to manage and track job applications throughout the
 ## Development Roadmap
 
 - [x] Flask fundamentals and API setup
-- [ ] PostgreSQL integration
-- [ ] Database models and relationships
+- [x] PostgreSQL integration
+- [x] Database models and relationships
 - [ ] User authentication
 - [ ] Application CRUD operations
 - [ ] Status tracking and history
